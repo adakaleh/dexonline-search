@@ -1,6 +1,6 @@
 Extensie Firefox pentru înlesnirea căutării pe https://dexonline.ro/
 
-https://addons.mozilla.org/en-US/firefox/addon/dexonline/
+https://addons.mozilla.org/ro/firefox/addon/dexonline/
 
 Moduri de funcționare:
 * Selectează un cuvânt → click-dreapta → click „Caută pe dexonline.ro”.
