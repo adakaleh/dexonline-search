@@ -17,7 +17,8 @@
 			"name": "dexonline",
 			"keyword": "dex",
 			"search_url": "https://dexonline.ro/definitie/{searchTerms}",
-			"search_form": "https://dexonline.ro/"
+			"search_form": "https://dexonline.ro/",
+			"suggest_url": "https://dexonline.ro/ajax/searchComplete.php?term={searchTerms}&type=opensearch"
 		}
 	},
 	"commands": {
